@@ -26,6 +26,7 @@ namespace Week21112016
             ,30),
 
         };
+        //jfidjfidj
 
         public static int WorldX = 2000;
         public static int WorldY = 2000;
